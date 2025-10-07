@@ -3,6 +3,8 @@
 # Create a variable holding your name. Then, print the value of the variable.
 
 # Use the input() function to make the computer ask you for your name. Then, make the computer greet you.
+user_name = input(“What’s your name? ”)
+print(“Hello, ” + user_name + “!”)
 
 # Fun Project: Fortune Teller!
 
